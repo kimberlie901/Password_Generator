@@ -63,7 +63,6 @@ function generatePassword() {
   }
 }
 
-
   if (confirm ("Do you want to include an uppercase letter?" )) {
     Arr = Arr.concat(upperLetters);
   }
