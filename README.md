@@ -13,7 +13,8 @@ This project was created so I could use JavaScript to build an interactive passw
 
 ## Demo 
 
-![Password-Generator-Demo](assets/03-javascript-homework-demo.png)
+
+![Password-Generator-Demo](https://github.com/kimberlie901/Protect-the-Password/blob/main/assets/03-javascript-homework-demo.png?raw=true) 
 
 ## Usage 
 
@@ -22,7 +23,7 @@ randomized letters, characters, and numbers.
 
 ## Websites 
 
-![Password-Generator-Screenshot](assets/Screenshot%202023-03-17%20at%2010.07.08%20PM.png)
+![Password-Generator-Screenshot]https://github.com/kimberlie901/Protect-the-Password/blob/main/assets/Screenshot%202023-03-17%20at%2010.07.08%20PM.png
 
 [Deployed Application](https://kimberlie901.github.io/Protect-the-Password/) 
 
