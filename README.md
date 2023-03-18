@@ -23,7 +23,7 @@ randomized letters, characters, and numbers.
 
 ## Websites 
 
-![Password-Generator-Screenshot](https://github.com/kimberlie901/Protect-the-Password/blob/main/assets/Screenshot%202023-03-17%20at%2010.07.08%20PM.png)
+![Password-Generator-Screenshot](https://github.com/kimberlie901/Protect-the-Password/blob/main/Assets/Screenshot%202023-03-17%20at%2010.07.08%20PM.png)
 
 [Deployed Application](https://kimberlie901.github.io/Protect-the-Password/) 
 
