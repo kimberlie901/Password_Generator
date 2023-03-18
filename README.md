@@ -11,17 +11,20 @@ This project was created so I could use JavaScript to build an interactive passw
 2. Open Visual Studio Code 
 3. Open the index.html on your preferred browser to view the webpage
 
+## Demo 
+
+![Password-Generator-Demo](assets/03-javascript-homework-demo.png)
+
 ## Usage 
 
 This project can be used by the user to create a password with 
 randomized letters, characters, and numbers.   
 
 ## Websites 
-[Deployed Application]
 
-## Demo 
+![Password-Generator-Screenshot](assets/Screenshot%202023-03-17%20at%2010.07.08%20PM.png)
 
-![JavaScript Homework Demo](assets/03-javascript-homework-demo.png)
+[Deployed Application](https://kimberlie901.github.io/Protect-the-Password/) 
 
 ## Credits 
 
