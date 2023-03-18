@@ -13,7 +13,7 @@ This project was created so I could use JavaScript to build an interactive passw
 
 ## Demo 
 
-![Password-Generator-Demo](assets/03-javascript-homework-demo.png)
+![Password-Generator-Demo](https://github.com/kimberlie901/Protect-the-Password/blob/main/Assets/03-javascript-homework-demo.png)
 
 ## Usage 
 
