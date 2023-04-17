@@ -1,15 +1,21 @@
-# Password Generator 
+# Random Password Generator 
 
 ## Description 
 
-This project was created so I could use JavaScript to build an interactive password generator using the HTML and CSS that I was given. The password generator when prompted would give the user a password with randomzied letters, special characters, and numbers. 
-
+This is a simple password generator application that allows the user to create a strong passward. 
 
 ## Installation 
 
 1. Download Repository
 2. Open Visual Studio Code 
 3. Open the index.html on your preferred browser to view the webpage
+
+## Technologies Used
+
+- Visual Studio Code
+- HTML
+- CSS 
+- JavaScript 
 
 ## Demo 
 
@@ -27,10 +33,6 @@ randomized letters, characters, and numbers.
 
 [Deployed Application](https://kimberlie901.github.io/Protect-the-Password/) 
 
-## Credits 
-
-N/A
-
 ## License
 
-Please refer to the LICENSE in the repo.  
+Please refer to the LICENSE in the repo. Copyright (c) Kimberlie Guillaume. All rights reserved.
