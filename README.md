@@ -27,11 +27,18 @@ This is a simple password generator application that allows the user to create a
 This project can be used by the user to create a password with 
 randomized letters, characters, and numbers.   
 
+## User Story 
+
+AS AN employee with access to sensitive data 
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides strong security 
+
 ## Websites 
 
 ![Password-Generator-Screenshot](https://github.com/kimberlie901/Protect-the-Password/blob/main/Assets/Screenshot%202023-03-17%20at%2010.07.08%20PM.png)
 
-[Deployed Application](https://kimberlie901.github.io/Protect-the-Password/) 
+- [Deployed Application](https://kimberlie901.github.io/Password_Generator/)
+- [Github](https://github.com/kimberlie901/Password_Generator) 
 
 ## License
 
