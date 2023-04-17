@@ -19,7 +19,6 @@ This is a simple password generator application that allows the user to create a
 
 ## Demo 
 
-
 ![Password-Generator-Demo](https://github.com/kimberlie901/Protect-the-Password/blob/main/Assets/03-javascript-homework-demo.png) 
 
 ## Usage 
@@ -29,9 +28,9 @@ randomized letters, characters, and numbers.
 
 ## User Story 
 
-AS AN employee with access to sensitive data 
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides strong security 
+- AS AN employee with access to sensitive data 
+- I WANT to randomly generate a password that meets certain criteria
+- SO THAT I can create a strong password that provides strong security 
 
 ## Websites 
 
